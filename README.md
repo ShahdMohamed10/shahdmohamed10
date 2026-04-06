@@ -41,22 +41,3 @@
 <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,mysql,postgresql,mongodb,aws,azure,linux,git" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahdMohamed10&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=333&bg_color=fff0f5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahdMohamed10&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=fff0f5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahdMohamed10&show_icons=true&layout=compact&title_color=ff69b4&text_color=333&bg_color=fff0f5" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
-</p>
