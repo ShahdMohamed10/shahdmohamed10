@@ -51,23 +51,6 @@
 
 ---
 
-### 🌸 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahdMohamed10&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=333&bg_color=fff0f5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahdMohamed10&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=fff0f5" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShahdMohamed10/ShahdMohamed10/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ### 🎀 Projects
 - 🧠 Skin Cancer Detection (CNN + Flask)  
