@@ -22,26 +22,31 @@
 
 ### 💅 Tech Stack
 
-**Languages & Core**
+**💻 Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
 </p>
 
-**AI & ML**
+**🧠 AI & Machine Learning**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-**Data Analysis**
+**📊 Data Analysis**
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-ffb6c1?style=for-the-badge&logo=pandas&logoColor=black" />
   <img src="https://img.shields.io/badge/Seaborn-ffc0cb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge" />
 </p>
 
-**Tools & Cloud**
+**🗄 Databases**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+**☁️ Tools & Cloud**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,aws" />
 </p>
 
 ---
@@ -84,7 +89,7 @@
 <p align="center">
   <a href="mailto:shahdmohamedlabib778@gmail.com">📧 Email</a> •
   <a href="https://github.com/ShahdMohamed10">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/shahdmohamed10/">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/shahd-mohamed-123a68277/">🔗 LinkedIn</a>
 </p>
 
 ---
