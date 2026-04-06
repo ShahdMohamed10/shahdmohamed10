@@ -1,85 +1,85 @@
-<h1 align="center">🌸 Hi 👋, I'm Shahd Mohamed</h1>
-<h3 align="center">💅 AI & Data Science Engineer | ML • CV • NLP</h3>
+<h1 align="center">Hi 👋, I'm Shahd Mohamed</h1>
+<h3 align="center">AI & Data Science Engineer | Building intelligent systems with ML, CV & NLP</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=25&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Lover;Building+Smart+Systems+💖" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ShahdMohamed10&label=Profile%20views&color=0e75b6&style=flat" alt="ShahdMohamed10" /> 
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShahdMohamed10&label=✨%20Profile%20views&color=ff69b4&style=flat" />
+- 🌱 I’m currently learning **MLOps, Advanced Deep Learning, Generative AI (LLMs), and Cloud Deployment (Azure)**
+
+- 🤝 I’m looking for help with **Scaling & deploying ML models (Flask APIs, Cloud & Mobile Integration)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ShahdMohamed10](https://github.com/ShahdMohamed10)
+
+- 💬 Ask me about **Machine Learning, Computer Vision (CNNs), NLP, and Model Deployment**
+
+- 📫 How to reach me **shahdmohamedlabib778@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1D7acSMg7qExCeFKxBbEO7V3lD4tH2GMu/view?usp=sharing](https://drive.google.com/file/d/1D7acSMg7qExCeFKxBbEO7V3lD4tH2GMu/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shahd-mohamed-123a68277/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://www.kaggle.com/shahdmohamed212" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/@ai2614095" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+</a>
 </p>
 
----
-
-### 💖 About Me
-- 🎓 Computer Science Graduate (2025)  
-- 🤖 AI & Data Science Engineer  
-- 🧠 Passionate about Machine Learning, NLP & Computer Vision  
-- ☁️ Interested in Cloud, MLOps & Deployment  
-- 🎀 I love blending tech with aesthetics  
-
----
-
-### 💅 Tech Stack
-
-**💻 Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a> 
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+</a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+</a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+</a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+</a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+</a> 
 </p>
 
-**🧠 AI & Machine Learning**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahdMohamed10&show_icons=true&hide_border=true&locale=en&layout=compact" alt="ShahdMohamed10" />
 </p>
 
-**📊 Data Analysis**
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-ffb6c1?style=for-the-badge&logo=pandas&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-ffc0cb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahdMohamed10&show_icons=true&locale=en" alt="ShahdMohamed10" />
 </p>
-
-**🗄 Databases**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
-
-**☁️ Tools & Cloud**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,aws" />
-</p>
-
----
-
-
-### 🎀 Projects
-- 🧠 Skin Cancer Detection (CNN + Flask)  
-- ✉️ Email Spam Classifier (TF-IDF + ML)  
-- 💻 Laptop Price Prediction  
-- 🎨 Color Palette Extractor  
-- 🛋 Furniture Recommendation System  
-
----
-
-### 🌷 Currently Learning
-- MLOps & Model Deployment  
-- Generative AI (LLMs)  
-- Advanced Deep Learning  
-
----
-
-### 💌 Connect With Me
-<p align="center">
-  <a href="mailto:shahdmohamedlabib778@gmail.com">📧 Email</a> •
-  <a href="https://github.com/ShahdMohamed10">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/shahd-mohamed-123a68277/">🔗 LinkedIn</a>
-</p>
-
----
-
-### 💕 Fun Fact
-I train models… and they train my patience 😭
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer"/>
